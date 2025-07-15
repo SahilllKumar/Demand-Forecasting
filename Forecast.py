@@ -189,4 +189,4 @@ with tab4:
 
 # Footer
 st.markdown("---")
-st.markdown("**Demand Forecasting App** • Powered by Prophet AI • [GitHub Repo](https://github.com/)")
+st.markdown("**Demand Forecasting App** • Powered by Prophet AI • [GitHub Repo](https://github.com/SahilllKumar/Demand-Forecasting)")
